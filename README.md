@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Futura&color=F7630C&size=35&width=500&lines=Hello+World!+👋;I+am+Syed+Shuja+Hussain;Nice+to+meet+you...; )](https://git.io/typing-svg)
 
 <!--
 **shuja-shah/shuja-shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
